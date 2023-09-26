@@ -15,16 +15,13 @@ git clone https://github.com/yourusername/your-chat-app.git
 
 2. Navigate to the project directory:
    cd your-chat-app
+3.Install dependencies: flutter pub get
+
+4.Configure Firebase: Create a Firebase project on the Firebase Console. Enable Firebase Authentication and Firestore.
+
+5.Run the app: flutter run
    
- 3.Install dependencies:
-flutter pub get
 
- 4.Configure Firebase:
-Create a Firebase project on the Firebase Console.
-Enable Firebase Authentication and Firestore.
-
- 5.Run the app:
-flutter run
 
 ## Usage
 
