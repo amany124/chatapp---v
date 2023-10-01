@@ -23,9 +23,9 @@ To run this app on your local machine, follow these steps:
 3. Start chatting with other users.
    
 ## Screen shots
-<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/5e2b1317-0932-4ff8-af58-14f5b0f976fc" width="65" height="200" alt="git 1">
-<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/e0ea3e7e-46d9-437b-91ff-767e5642c4a2" width="65" height="200" alt="git 2">
-<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/d19b0c71-ab9d-43a7-9ecf-674a95c01cf5" width="65" height="200" alt="git 3">
+<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/5e2b1317-0932-4ff8-af58-14f5b0f976fc" width="90" height="90" alt="git 1">
+<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/e0ea3e7e-46d9-437b-91ff-767e5642c4a2" width="90" height="90" alt="git 2">
+<img src="https://github.com/amany124/chatapp_simpleview/assets/92021104/d19b0c71-ab9d-43a7-9ecf-674a95c01cf5" width="90" height="90" alt="git 3">
 
 
 Good luck :)
