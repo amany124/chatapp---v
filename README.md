@@ -21,6 +21,11 @@ To run this app on your local machine, follow these steps:
 1. Launch the app on your device or emulator.
 2. Sign in or create an account using your email and password.
 3. Start chatting with other users.
+   
+## Screen shots
+![git 1](https://github.com/amany124/chatapp_simpleview/assets/92021104/5e2b1317-0932-4ff8-af58-14f5b0f976fc)
+![git 2](https://github.com/amany124/chatapp_simpleview/assets/92021104/e0ea3e7e-46d9-437b-91ff-767e5642c4a2)
+![git 3](https://github.com/amany124/chatapp_simpleview/assets/92021104/d19b0c71-ab9d-43a7-9ecf-674a95c01cf5)
 
 Good luck :)
 
